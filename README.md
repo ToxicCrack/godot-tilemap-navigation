@@ -1,4 +1,4 @@
-# Godot Engine: Navigation2D with multiple tilemap layers
+# Godot Engine 3.1: Navigation2D with multiple tilemap layers
 
 This is a sample project to showcase how Tilemap Navigation could be done with multiple layers of obstacles.
 
