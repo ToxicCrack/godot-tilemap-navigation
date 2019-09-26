@@ -3,7 +3,7 @@
 This is a sample project to showcase how Tilemap Navigation could be done with multiple layers of obstacles.
 
 
-## How it works
+## HowTo
 Create the ground, obstacle, etc layers as normal (with navigation where it should be), add them to a group called "tilemap". 
 Add a Navigation2D node and a tilemap as a child. This tilemap has only one empty tile with navigation on it. Add it to a group called "navigation".
 Add to the Navigation2D the TilemapNav.gd script, then enable navigation debugging to see if it works.
